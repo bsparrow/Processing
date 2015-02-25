@@ -1,4 +1,11 @@
-libraries/
-modes/
-tools/
-
+libraries
+modes
+tools
+*.png
+*.pdf
+*.jpg
+processing.js
+web-export
+libraries
+sketch.properties
+.DS_Store
